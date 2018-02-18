@@ -1,4 +1,4 @@
-# Eulib Ract Rewrite
+# Eulib React Rewrite
 React + Express rewrite of a one-page encyclopedia project. Froked from sample repo fo Udemy course "Modern React with Redux"
 
 ### Getting Started
